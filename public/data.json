@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué imprime console.log(typeof 10)?",
+    "codigo": "console.log(typeof 10);",
+    "respuestas": [
+      "number",
+      "string",
+      "boolean",
+      "object"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál es la palabra clave para declarar una variable que NO cambia?",
+    "codigo": "const PI = 3.14;",
+    "respuestas": [
+      "var",
+      "let",
+      "const",
+      "static"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué devuelve la expresión '5' === 5?",
+    "codigo": "console.log('5' === 5);",
+    "respuestas": [
+      "true",
+      "false",
+      "undefined",
+      "null"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué método se usa para añadir un elemento al final de un array?",
+    "codigo": "let arr = [1, 2]; arr.push(3);",
+    "respuestas": [
+      "push()",
+      "pop()",
+      "shift()",
+      "unshift()"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué imprime console.log(2 + '2')?",
+    "codigo": "console.log(2 + '2');",
+    "respuestas": [
+      "22",
+      "4",
+      "NaN",
+      "undefined"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué tipo de dato es NaN?",
+    "codigo": "console.log(typeof NaN);",
+    "respuestas": [
+      "number",
+      "NaN",
+      "undefined",
+      "object"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué función convierte un JSON a un objeto?",
+    "codigo": "JSON.parse('{\"a\":1}');",
+    "respuestas": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "parseJSON()",
+      "toObject()"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué imprime console.log(Boolean(0))?",
+    "codigo": "console.log(Boolean(0));",
+    "respuestas": [
+      "true",
+      "false",
+      "0",
+      "undefined"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué palabra clave se usa para crear una función?",
+    "codigo": "function saludo() { return 'Hola'; }",
+    "respuestas": [
+      "func",
+      "fn",
+      "function",
+      "def"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál es el resultado de [1,2,3].length?",
+    "codigo": "console.log([1,2,3].length);",
+    "respuestas": [
+      "2",
+      "3",
+      "4",
+      "undefined"
+    ],
+    "respuesta_correcta":1
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué imprime console.log(typeof null)?",
+    "codigo": "console.log(typeof null);",
+    "respuestas": [
+      "null",
+      "undefined",
+      "object",
+      "boolean"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué operador se utiliza para asignar un valor?",
+    "codigo": "let x = 10;",
+    "respuestas": [
+      "=",
+      "==",
+      "===",
+      ":"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué imprime console.log(3 == '3')?",
+    "codigo": "console.log(3 == '3');",
+    "respuestas": [
+      "true",
+      "false",
+      "NaN",
+      "undefined"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué método convierte un objeto en una cadena JSON?",
+    "codigo": "JSON.stringify({a:1});",
+    "respuestas": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "toString()",
+      "objectToJSON()"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué imprime console.log([1, 2, 3].includes(2))?",
+    "codigo": "console.log([1, 2, 3].includes(2));",
+    "respuestas": [
+      "true",
+      "false",
+      "undefined",
+      "null"
+    ],
+    "respuesta_correcta":0
+  }
+]
