@@ -5,8 +5,7 @@ Ideal para reforzar conocimientos esenciales del lenguaje de manera simple y div
 
 # 📌 Demo
 
-(Agrega aquí el link cuando publiques el proyecto, ej: https://tusitio.com
-)
+https://javascript-quiz-emiliano-gasco.netlify.app/
 
 🛠️ Tecnologías
 
